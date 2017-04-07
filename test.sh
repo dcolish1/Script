@@ -1,4 +1,4 @@
-bklha
-balj
-lqdjoadfhjs
-fpokewfkop
+#!/bin/bash
+
+pwd
+cd $HOME
