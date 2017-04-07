@@ -2,3 +2,5 @@
 
 pwd
 cd $HOME
+pwd
+ls -l
